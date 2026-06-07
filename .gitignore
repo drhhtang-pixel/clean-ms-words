@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+~$*.docx
+.DS_Store
+*_report.md
